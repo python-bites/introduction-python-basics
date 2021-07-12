@@ -1,5 +1,5 @@
-# introduction-python-basics
-Introduction to Python: The Basics
+# Introduction to Python: The Basics
+Here you can find out about the basic building blocks of Python.
 
 [![Shield.io](https://img.shields.io/badge/link-source-blue)](https://github.com/HamPUG/meetings/tree/master/2020/2020-03-09/ldo)
 
